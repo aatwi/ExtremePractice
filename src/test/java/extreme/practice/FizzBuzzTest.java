@@ -5,6 +5,9 @@ import org.junit.Test;
 
 public class FizzBuzzTest {
 
+
+
+
     @Test
     public void
     it_should_print_1_when_given_1() {
